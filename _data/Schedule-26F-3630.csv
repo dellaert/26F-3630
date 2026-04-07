@@ -1,0 +1,34 @@
+﻿Week,Mth,Date,Day,Module,Topic,Slides,Reading,Quizzes,Projects
+1,Aug,19,Tue,,Introduction,L1_Course_Overview,1,Quiz 1,P1: Intro to Python
+1,Aug,21,Thu,Sorting,Six aspects of robotics systems,L2_Intro_to_Robot_Systems,1,,
+2,Aug,26,Tue,Sorting,"State, probability, and actions",L3_Trash_Robot_1,2.1-2.2,,P2: Probability and Decision Theory
+2,Aug,28,Thu,Sorting,Sensor Models,L4_Trash_Robot_2,2.3,,
+3,Sep,2,Tue,Sorting,Perception and Planning,L5_Trash_Robot_3,2.4-2.7,,
+3,Sep,4,Thu,Vacuum,Probabilistic Actions,L6_Vacuuming_Robot_1,3.1-3.2,Quiz 2,
+4,Sep,9,Tue,Vacuum,Controlled Markov Chains,L7_Vacuuming_Robot_2,3.2-3.3,,P3: HMM and MDP
+4,Sep,11,Thu,Vacuum,Sensors and Bayes Nets,L8_Vacuuming_Robot_3,3.3-3.4,,
+5,Sep,16,Tue,Vacuum,Inference in HMMs,L9_Vacuuming_Robot_4,3.4,,
+5,Sep,18,Thu,Vacuum,Markov Decision Processes,L10_Vacuuming_Robot_5,3.5-3.7,Quiz 3,
+6,Sep,23,Tue,Logistics,Continuus State and Action,L11_Logistics_Robot_1,4.1-4.2,,P4: Particle Filters
+6,Sep,25,Thu,Logistics,Continuous Motion and Sensing,L12_Logistics_Robot_2,4.3,,
+7,Sep,30,Tue,Logistics,Markov Localization and MCL,L13_Logistics_Robot_3,4.4,,
+7,Oct,2,Thu,Logistics,More MCL and MDPs,L14_Logistics_Robot_4,4.5-4.7,Quiz 4,"P4 due, pause on projects until Oct 21"
+8,Oct,7,Tue,Duckiebot,Fall Break,-,-,,
+8,Oct,9,Thu,Duckiebot,Differential Drive,L15_DDRs_1,5.1-5.2,,
+9,Oct,14,Tue,Duckiebot,Cameras and Image Processing,L16_DDRs_2,5.3,,
+9,Oct,16,Thu,Duckiebot,Computer Vision 101,L17_DDRs_3_vision,5.4,,
+10,Oct,21,Tue,Duckiebot,Inference with Deep Nets,L18_DDRs_4_RRTs,5.5,,P5: Deep Learning
+10,Oct,23,Thu,Duckiebot,Deep Learning,L19_DDRs_5_learning,5.6-5.7,Quiz 5,
+11,Oct,28,Tue,Vehicles,Autonomous Vehicles and SE(2),L20_Driving_1_SE2,6.1,,
+11,Oct,30,Thu,Vehicles,Ackerman steering,L21_Driving_2_Kinematics,6.2,,
+12,Nov,4,Tue,Vehicles,LIDAR sensors,L22_Driving_3_LIDAR,6.3,,P6: Pose SLAM and LIDAR
+12,Nov,6,Thu,Vehicles,ICP and Pose SLAM,L23_Driving_4_SLAM,6.4,,
+13,Nov,11,Tue,Vehicles,Planning for Driving,L24_Driving_5_Planning,6.5-6.7,Quiz 6,
+13,Nov,13,Thu,Drone,SE(3),L25_Drones_1_SE3,7.1,,
+14,Nov,18,Tue,Drone,Actions for Drones,L26_Drones_2_Actions,7.2,,P7: RRT and/or Trajectory Optimization
+14,Nov,20,Thu,Drone,Drone sensors,L27_Drones_3_Sensing,7.3,,
+15,Nov,25,Tue,Drone,Trajectory Optimization & RRT,L28_Drones_4_Planning,7.5,Quiz 7,
+15,Nov,27,Thu,Thanksgiving,,,,,
+16,Dec,2,Tue,Drone,Visual SLAM,L29_Drones_4_VisualSLAM,"7.4, 7.6-7.7",,"P7 due, all quizzes graded!"
+,,,,,,,,,
+,,,,,,,,,

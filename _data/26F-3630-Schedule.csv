@@ -1,0 +1,34 @@
+﻿Week,Mth,Date,Day,Module,Topic,Slides,Reading,Quizzes,Projects
+1,Aug,25,Tue,,Introduction,,,,P1: Intro to Python
+1,Aug,27,Thu,Sorting,Six aspects of robotics systems,,,,
+2,Sep,1,Tue,Sorting,"State, probability, and actions",,,,P2: Probability and Decision Theory
+2,Sep,3,Thu,Sorting,Sensor Models,,,,
+3,Sep,8,Tue,Sorting,Perception and Planning,,,,
+3,Sep,10,Thu,Vacuum,Probabilistic Actions,,,,
+4,Sep,15,Tue,Vacuum,Controlled Markov Chains,,,,P3: HMM and MDP
+4,Sep,17,Thu,Vacuum,Sensors and Bayes Nets,,,,
+5,Sep,22,Tue,Vacuum,Inference in HMMs,,,,
+5,Sep,24,Thu,Vacuum,Markov Decision Processes,,,,
+6,Sep,29,Tue,Logistics,Continuus State and Action,,,,P4: Particle Filters
+6,Oct,1,Thu,Logistics,Continuous Motion and Sensing,,,,
+7,Oct,6,Tue,,Fall Break,,,,
+7,Oct,8,Thu,Logistics,Markov Localization and MCL,,,,"P4 due, pause on projects until Oct 21"
+8,Oct,13,Tue,Logistics,More MCL and MDPs,,,,
+8,Oct,15,Thu,Duckiebot,Differential Drive,,,,
+9,Oct,20,Tue,Duckiebot,Cameras and Image Processing,,,,
+9,Oct,22,Thu,Duckiebot,Computer Vision 101,,,,
+10,Oct,27,Tue,Duckiebot,Inference with Deep Nets,,,,P5: Deep Learning
+10,Oct,29,Thu,Duckiebot,Deep Learning,,,,
+11,Nov,3,Tue,Vehicles,Autonomous Vehicles and SE(2),,,,
+11,Nov,5,Thu,Vehicles,Ackerman steering,,,,
+12,Nov,10,Tue,Vehicles,LIDAR sensors,,,,P6: Pose SLAM and LIDAR
+12,Nov,12,Thu,Vehicles,ICP and Pose SLAM,,,,
+13,Nov,17,Tue,Vehicles,Planning for Driving,,,,
+13,Nov,19,Thu,,,,,,
+14,Nov,24,Tue,,,,,,
+14,Nov,26,Thu,,Thanksgiving break,,,,
+15,Dec,1,Tue,,,,,,
+15,Dec,3,Thu,,,,,,
+16,Dec,8,Tue,,,,,,"P6 due, all quizzes graded!"
+,,,,,,,,,
+,,,,,,,,,
