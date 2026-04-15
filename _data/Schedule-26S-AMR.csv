@@ -1,0 +1,37 @@
+﻿Week,Mth,Date,Day,Module,Topic,Slides,Reading,Quizzes,Projects,
+1,Jan,13,Tue,,Introduction,L1_Introduction.pdf,PR 1,,,Tue
+1,Jan,15,Thu,Swim,"Coordinate Transformations (SE(2), SE(3))",,,,P1a: Underwater Robot State,Thu
+2,Jan ,20,Tue,Swim,"Functions on manifolds, push-forward, Jacobian calculation",,,,,Tue
+2,Jan,22,Thu,Swim,Motion Models (Kinematics),,,,,Thu
+3,Jan,27,Tue,Swim,"EKF Basics, Sensor Models: IMU (Bias, Noise), Range Sensors",,,,P1b: Underwater Robot Localization,Tue
+3,Jan,29,Thu,Swim,"Filtering Foundations: Bayes Filter, Kalman Filter (KF), Extended KF (EKF)",,,,,Thu
+4,Feb,3,Tue,Swim,Invariant Extended Kalman Filter (IEKF); ,,,,,Tue
+4,Feb,5,Thu,Swim,Basic Trajectory Tracking Control,,,Quiz 1,P1 Due on Friday Feb 6,Thu
+5,Feb,10,Tue,Walk,Robot Kinematics: Forward and Inverse Kinematics,,,,,Tue
+5,Feb,12,Thu,Walk,Twists and forward kinematics factor graph,,,,P2: Legged Robot Kinematic Estimation & MPC,Thu
+6,Feb,17,Tue,Walk,Product of exponentials and probabilistic road maps,,,,,Tue
+6,Feb,19,Thu,Walk,Invariant filtering with footholds,,,,,Thu
+7,Feb,24,Tue,Walk,"Friction, statics, and dynamics",,,,,Tue
+7,Feb,26,Thu,Walk,Model Predictive Control (MPC): Predictive Sampling Methods,,,,,Thu
+8,Mar,3,Tue,Walk,RNEA and kino-dynamic motion planning,,,,,Tue
+8,Mar,5,Thu,Drive,Wheeled Mobile Robots: Differential Drive Kinematics & Odometry,,,Quiz 2,P2 Due on Friday Mar 6,Thu
+9,Mar,10,Tue,Drive,IMU Preintegration & LIDAR Scan Matching,,,,P3: Single Robot Pose SLAM & Maze Exploration,Tue
+9,Mar,12,Thu,Drive,Introduction to Factor Graphs & Non-linear Least Squares Optimization,,,,,Thu
+10,Mar,17,Tue,Drive,Pose Graph SLAM Formulation; Loop Closure Detection,,,,,Tue
+10,Mar,19,Thu,Drive,Frontier-Based Exploration Algorithms,,,,,Thu
+11,Mar,24,Tue,,Spring Break,-,,,,Tue
+11,Mar,26,Thu,,Spring Break,,,,,Thu
+12,Mar,31,Tue,Drive,"Data Association Challenges in SLAM (Loop Closures, Multi-Robot)",,,,,Tue
+12,Apr,2,Thu,Drive,Nonlinear Optimization,,,Quiz 3,P3 Due on Friday Apr 13,Thu
+13,Apr,7,Tue,Fly,Multi-Robot Systems: Architectures & Basic Coordination Planning,,,,P4: LiDAR-Inertial Odometry (LIO),Tue
+13,Apr,9,Thu,Fly,Convex relaxationas and Global Optimization,,,,,Thu
+14,Apr,14,Tue,Fly,Drones  state and Kinematics ,,,,,Tue
+14,Apr,16,Thu,Fly,Drone dynamics and and IMU Preintegration Factors,,,,,Thu
+15,Apr,21,Tue,Fly,"LIO, VIO, and V-SLAM",,,,,Tue
+15,Apr,23,Thu,Fly,Continuous-Time SLAM (CT-SLAM) Concepts,,,Quiz 4,P4 Due on Friday Apr 24,Thu
+16,Apr,28,Tue,Fly,TBD,,,,,Tue
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
