@@ -14,7 +14,7 @@ title: Resources
 ### Important Links:
 * [Piazza!](https://piazza.com/gatech/) This should be your first stop for questions and announcements. 
 * [Gradescope](https://www.gradescope.com/) is where you will submit projects. It is also available from the Canvas menu.
-* [Canvas](https://gatech.instructure.com/) will be used for occasional announcements and disseminating the lecture videos.
+* [Canvas](https://gatech.instructure.com/) will be used for occasional announcements and course materials.
 * [Georgia Tech Academic Honor Code](https://policylibrary.gatech.edu/student-life/academic-honor-code)
 * [ADAPTS office](https://www.adapts.gatech.edu)
 
