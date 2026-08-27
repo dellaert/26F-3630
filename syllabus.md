@@ -37,7 +37,7 @@ The grading distribution is:
 | Quizzes        |  30%  |
 | Projects       |  60%  |
 
-- **Participation**: to encourage 100% attendance, we will regularly have pop-quizzes in class, on paper. Your participation in those will constitute 10% of your grade. We will allow you to miss the intro lecture, and up to 1 lecture per module, but your participation grade will be proportional with attendance after that.
+- **Participation**: Participation constitutes 10% of your grade and may be assessed through occasional in-class pop quizzes and attendance checks. Attendance may be taken within each group by that group's TA.
 - **Quizzes**: Quizzes will have a combination of multiple choice and short essay questions, as appropriate.
 - **Projects**: Project deliverables are the most significant component of this course and will make up **60%** of your final grade.
 The late policy for projects is to linearly decrease the maximum score from 100 to 0, starting at the submission deadline (example: Tuesday, 23:59:59) and ending on (for example) Friday, 23:59:59.  Thus, the maximum possible score decreases continuously from 100 to zero over the 72 hour period following the submission deadline.
@@ -45,7 +45,7 @@ The late policy for projects is to linearly decrease the maximum score from 100 
 ### Attendance policy
 **Important: Classes are delivered in person.**
 
-- **Lectures** will be **in person**. Lectures are not recorded, and attendance is required. Do not sign up for this course unless you can attend the lectures.
+- **Lectures** will be **in person**. Lectures are not recorded, and attendance is required. Attendance may occasionally be recorded within each group by that group's TA. Do not sign up for this course unless you can attend the lectures.
 
 ### Additional criteria for successful completion
 
@@ -56,7 +56,7 @@ Academic dishonesty will not be tolerated. This includes cheating, lying about c
 
 You are expected to implement the core components of each project on your own, but the extra credit opportunities often build on third party data sets or code. That's fine. Feel free to include results built on other software, as long as you are clear in your hand-in that it is not your own work.
 
-You should not view or edit anyone else's code. You should not post code to Piazza, except for starter code / helper code that isn't related to the core project.
+You should not view or edit anyone else's code. You should not post code to Ed Discussion, except for starter code / helper code that isn't related to the core project.
 
 ### Statement about acceptable student conduct
 

@@ -12,20 +12,20 @@ title: Resources
 * [Pytorch](https://pytorch.org/)
 
 ### Important Links:
-* [Piazza!](https://piazza.com/gatech/) This should be your first stop for questions and announcements. 
+* **Ed Discussion**, available from the Canvas course menu, should be your first stop for questions and announcements.
 * [Gradescope](https://www.gradescope.com/) is where you will submit projects. It is also available from the Canvas menu.
 * [Canvas](https://gatech.instructure.com/) will be used for occasional announcements and course materials.
 * [Georgia Tech Academic Honor Code](https://policylibrary.gatech.edu/student-life/academic-honor-code)
 * [ADAPTS office](https://www.adapts.gatech.edu)
 
-### Piazza
+### Ed Discussion
 
-This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the TA, and myself. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza. If you have any problems or feedback for the developers, email team@piazza.com.
+This term we will use Ed Discussion for class discussion. You can access it from the Canvas course menu. Rather than emailing general course questions to the teaching staff, please post them on Ed Discussion so that classmates, TAs, and the instructor can respond and everyone can benefit from the answers.
 
 ### Contact Info and Office Hours:
-Use Piazza to ask questions and seek clarifications. If you have a very specific question (related to your grade etc.) or a question that involves your personal information, you can make a private post on Piazza.
+Use Ed Discussion to ask questions and seek clarifications. If you have a question about your grade or one that involves personal information, make a private post on Ed Discussion.
 
-The TA office hours will be announced very soon, along with the location, in a pinned post on Piazza. 
+TA office hours and locations will be announced in a pinned post on Ed Discussion.
 
 ### Acknowledgements
 The materials from this class rely significantly on slides prepared by other instructors. Each slide set and assignment contains acknowledgements. Feel free to use these slides for academic or research purposes, but please maintain all acknowledgements.
@@ -36,4 +36,3 @@ The materials from this class rely significantly on slides prepared by other ins
 * [Fall 2022 version](https://dellaert.github.io/22F-3630/)
 * [Spring 2021 version](https://dellaert.github.io/21S-3630/)
 * [Spring 2020 version](https://dellaert.github.io/20S-3630/)
-
