@@ -1,6 +1,6 @@
 ﻿Week,Mth,Date,Day,Module,Topic,Slides,Reading,Quizzes,Projects
-1,Aug,25,Tue,,Introduction,L1_Course_Overview.pdf,Ch. 1,,
-1,Aug,27,Thu,,Six aspects of robotics systems,L2_Intro_to_Robot_Systems.pdf,Ch. 1,,
+1,Aug,25,Tue,,Introduction,L1_Course_Overview,Ch. 1,,
+1,Aug,27,Thu,,Six aspects of robotics systems,L2_Intro_to_Robot_Systems,Ch. 1,,
 2,Sep,1,Tue,Sorting,Introduction to Bayesian Thinking,,,Q1--,P1: Intro
 2,Sep,3,Thu,Sorting,"State, probability, and actions",,,,P1 Due
 3,Sep,8,Tue,Sorting,Sensor Models,,,,P2: Sorting
