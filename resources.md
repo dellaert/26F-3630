@@ -6,10 +6,10 @@ title: Resources
 
 * [Introduction to Robotics and Perception](https://www.roboticsbook.org/intro.html), the free online textbook for this class.
 
-## Python and pytorch
+## Python and PyTorch
 
 * [Python](https://www.python.org/)
-* [Pytorch](https://pytorch.org/)
+* [PyTorch](https://pytorch.org/)
 
 ### Important Links:
 * **Ed Discussion**, available from the Canvas course menu, should be your first stop for questions and announcements.

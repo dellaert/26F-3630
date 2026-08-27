@@ -1,6 +1,6 @@
 ﻿Week,Mth,Date,Day,Module,Topic,Slides,Reading,Quizzes,Projects
-1,Aug,25,Tue,,Introduction,L1_Course_Overview.pdf,,,
-1,Aug,27,Thu,,Six aspects of robotics systems,,,,
+1,Aug,25,Tue,,Introduction,L1_Course_Overview.pdf,Ch. 1,,
+1,Aug,27,Thu,,Six aspects of robotics systems,L2_Intro_to_Robot_Systems.pdf,Ch. 1,,
 2,Sep,1,Tue,Sorting,Introduction to Bayesian Thinking,,,Q1--,P1: Intro
 2,Sep,3,Thu,Sorting,"State, probability, and actions",,,,P1 Due
 3,Sep,8,Tue,Sorting,Sensor Models,,,,P2: Sorting
@@ -10,7 +10,7 @@
 5,Sep,22,Tue,Vacuum,Sensors and Bayes Nets,,,,P3: Vacuum
 5,Sep,24,Thu,Vacuum,Inference in HMMs,,,,
 6,Sep,29,Tue,Vacuum,Markov Decision Processes,,,,
-6,Oct,1,Thu,Logistics,Continuus State and Action,,,Q3,
+6,Oct,1,Thu,Logistics,Continuous State and Action,,,Q3,
 7,Oct,6,Tue,Logistics,Fall Break,,,,
 7,Oct,8,Thu,Logistics,Continuous Motion and Sensing,,,,P3 Due
 8,Oct,13,Tue,Logistics,Markov Localization and MCL,,,,P4: Logistics
@@ -22,7 +22,7 @@
 11,Nov,3,Tue,Duckiebot,Inference with Deep Nets,,,,P5: Duckiebot
 11,Nov,5,Thu,Duckiebot,Deep Learning,,,,
 12,Nov,10,Tue,Vehicles,Autonomous Vehicles and SE(2),,,Q5,
-12,Nov,12,Thu,Vehicles,Ackerman steering,,,,P5 due
+12,Nov,12,Thu,Vehicles,Ackermann steering,,,,P5 due
 13,Nov,17,Tue,Vehicles,LIDAR sensors,,,,P6: Vehicles
 13,Nov,19,Thu,Vehicles,ICP and Pose SLAM,,,,
 14,Nov,24,Tue,Vehicles,Planning for Driving,,,,
