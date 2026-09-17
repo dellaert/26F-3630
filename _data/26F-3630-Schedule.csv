@@ -5,9 +5,9 @@
 2,Sep,3,Thu,Sorting,"State, probability, and actions",L4_Trash_Robot_1,2.1-2.2,,P1 Due
 3,Sep,8,Tue,Sorting,Sensor Models,L5_Trash_Robot_2,2.3,,P2: Sorting
 3,Sep,10,Thu,Sorting,Perception and Planning,L6_Trash_Robot_3,2.4-2.6,,
-4,Sep,15,Tue,Vacuum,Probabilistic Actions,,,Q2,
-4,Sep,17,Thu,Vacuum,Controlled Markov Chains,,,,P2 Due
-5,Sep,22,Tue,Vacuum,Sensors and Bayes Nets,,,,P3: Vacuum
+4,Sep,15,Tue,Vacuum,Probabilistic Actions,L7_Vacuuming_Robot_1,3.1,Q2,
+4,Sep,17,Thu,Vacuum,Controlled Markov Chains,L8_Vacuuming_Robot_2,3.2,,P2 Due
+5,Sep,22,Tue,Vacuum,Sensors and Bayes Nets,,3.3-3.4,,P3: Vacuum
 5,Sep,24,Thu,Vacuum,Inference in HMMs,,,,
 6,Sep,29,Tue,Vacuum,Markov Decision Processes,,,,
 6,Oct,1,Thu,Logistics,Continuous State and Action,,,Q3,
