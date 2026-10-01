@@ -10,7 +10,7 @@
 5,Sep,22,Tue,Vacuum,Sensors and Bayes Nets,L9_Vacuuming_Robot_3,3.3-3.4,,P3: Vacuum
 5,Sep,24,Thu,Vacuum,Inference in HMMs,L10_Vacuuming_Robot_4,3.4,,
 6,Sep,29,Tue,Vacuum,Markov Decision Processes,L11_Vacuuming_Robot_5,3.5-3.6,,
-6,Oct,1,Thu,Logistics,Continuous State and Action,,,Q3,
+6,Oct,1,Thu,Logistics,Continuous State and Action,L12_Logistics_Robot_1,4.1-4.2,Q3,
 7,Oct,6,Tue,Logistics,Fall Break,,,,
 7,Oct,8,Thu,Logistics,Continuous Motion and Sensing,,,,P3 Due
 8,Oct,13,Tue,Logistics,Markov Localization and MCL,,,,P4: Logistics
