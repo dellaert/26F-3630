@@ -16,9 +16,9 @@
 8,Oct,13,Tue,Logistics,Likelihood Images,L14_Logistics_Robot_3,4.3,,P4: Logistics
 8,Oct,15,Thu,Logistics,Markov Localization and MCL,L15_Logistics_Robot_4,4.4,,
 9,Oct,20,Tue,Logistics,Value Iteration & System Id. ,L16_Logistics_Robot_5,4.5-4.6,,
-9,Oct,22,Thu,Duckiebot,Differential Drive,,,Q4,
-10,Oct,27,Tue,Duckiebot,Cameras and Image Processing,,,,
-10,Oct,29,Thu,Duckiebot,Computer Vision 101,,,,P4 Due
+9,Oct,22,Thu,Duckiebot,Differential Drive,L17_DDRs_1,5.1-5.2,Q4,
+10,Oct,27,Tue,Duckiebot,Cameras and Image Processing,L18_DDRs_2,5.3,,
+10,Oct,29,Thu,Duckiebot,Computer Vision 101,L19_DDRs_3_vision,5.4,,P4 Due
 11,Nov,3,Tue,Duckiebot,Inference with Deep Nets,,,,P5: Duckiebot
 11,Nov,5,Thu,Duckiebot,Deep Learning,,,,
 12,Nov,10,Tue,Vehicles,Autonomous Vehicles and SE(2),,,Q5,
