@@ -19,13 +19,13 @@
 9,Oct,22,Thu,Duckiebot,Differential Drive,L17_DDRs_1,5.1-5.2,Q4,
 10,Oct,27,Tue,Duckiebot,Cameras and Image Processing,L18_DDRs_2,5.3,,
 10,Oct,29,Thu,Duckiebot,Computer Vision 101,L19_DDRs_3_vision,5.4,,P4 Due
-11,Nov,3,Tue,Duckiebot,"Vision, Cont'd, PRMs",L20_DDRs_4_RRTs,5.5,,P5: Duckiebot
-11,Nov,5,Thu,Duckiebot,Planning with RRTs,,,,
-12,Nov,10,Tue,Duckiebot,Deep Learning,,,,
-12,Nov,12,Thu,Vehicles,Autonomous Vehicles and SE(2),,,Q5,
-13,Nov,17,Tue,Vehicles,Ackermann steering,,,,"P5 due, P6: Vehicles"
-13,Nov,19,Thu,Vehicles,LIDAR sensors,,,,
-14,Nov,24,Tue,Vehicles,ICP and Pose SLAM,,,,
+11,Nov,3,Tue,Duckiebot,"Vision, Cont'd, PRMs",L20_DDRs_4_CNNs,"5,4",,P5: Duckiebot
+11,Nov,5,Thu,Duckiebot,Planning with RRTs,L21_DDRs_5_RRTs,5.5,,
+12,Nov,10,Tue,Duckiebot,Deep Learning,L22_DDRs_6_learning,,,
+12,Nov,12,Thu,Vehicles,SE(2) and Ackermann steering,,,Q5,
+13,Nov,17,Tue,Vehicles,LIDAR sensors,,,,"P5 due, P6: Vehicles"
+13,Nov,19,Thu,Vehicles,ICP and Pose SLAM,,,,
+14,Nov,24,Tue,Vehicles,,,,,
 14,Nov,26,Thu,,Thanksgiving break,,,,
 15,Dec,1,Tue,,Guest Lecture TBD,,,,
 15,Dec,3,Thu,,Harish Ravichandrar,,,,P6 due
